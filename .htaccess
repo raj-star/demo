@@ -1,0 +1,5 @@
+PassengerBaseURI  /
+PassengerAppRoot  /nodeTest/api/
+
+PassengerAppType node
+PassengerStartupFile app.js

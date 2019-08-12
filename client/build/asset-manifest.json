@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b107ee68.chunk.css",
+    "main.js": "/static/js/main.454348c2.chunk.js",
+    "main.js.map": "/static/js/main.454348c2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.1e4ec68c.chunk.css": "/static/css/2.1e4ec68c.chunk.css",
+    "static/js/2.318daa18.chunk.js": "/static/js/2.318daa18.chunk.js",
+    "static/js/2.318daa18.chunk.js.map": "/static/js/2.318daa18.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4c75a0512be2b9779b388023e43fdf6.js": "/precache-manifest.c4c75a0512be2b9779b388023e43fdf6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1e4ec68c.chunk.css.map": "/static/css/2.1e4ec68c.chunk.css.map",
+    "static/css/main.b107ee68.chunk.css.map": "/static/css/main.b107ee68.chunk.css.map",
+    "static/media/1.png": "/static/media/1.1ebeee6e.png",
+    "static/media/artisat.png": "/static/media/artisat.5fc8a247.png",
+    "static/media/back-sign-2.png": "/static/media/back-sign-2.496b7d3a.png",
+    "static/media/logo-trans.png": "/static/media/logo-trans.963ccc5c.png",
+    "static/media/men.png": "/static/media/men.988bed0e.png",
+    "static/media/main5.css": "/static/media/rt.a5a41dcf.jpg",
+    "static/media/salon.png": "/static/media/salon.92680565.png",
+    "static/media/yoga.png": "/static/media/yoga.e515474a.png"
+  }
+}
